@@ -32,7 +32,7 @@ Website akan berjalan di `http://localhost:5173`
 ### Build for Production
 
 ```bash
-npm run build
+npm run dist
 ```
 
 File production akan ada di folder `dist/`
